@@ -1,0 +1,11 @@
+{
+    "config": {
+        "vendor-dir": "##VENDOR"
+    },
+    "require": {
+        "caedo/framework": "1.*"
+    },
+	"repositories": [
+       	{"type": "vcs", "url": "https://github.com/kananlanginhooper/Caedo.git"}
+    ]
+}

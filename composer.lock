@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "43da54450822aba00e7f91cea4d00cb4",
+    "packages": [
+        {
+            "name": "caedo/framework",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kananlanginhooper/Caedo.git",
+                "reference": "02175637bebf72e02939c05179bcf630fe846d26"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/02175637bebf72e02939c05179bcf630fe846d26",
+                "reference": "02175637bebf72e02939c05179bcf630fe846d26",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "type": "library",
+            "license": [
+                "GPLv2"
+            ],
+            "authors": [
+                {
+                    "name": "Kanan Langin-Hooper",
+                    "email": "Kanan.LanginHooper@gmail.com",
+                    "homepage": "https://github.com/kananlanginhooper",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Caedo Framework Base for PHP",
+            "homepage": "https://github.com/kananlanginhooper/Caedo",
+            "keywords": [
+                "Caedo",
+                "DevOps",
+                "Developer First",
+                "PHP Framework"
+            ],
+            "support": {
+                "source": "https://github.com/kananlanginhooper/Caedo/tree/1.0.2",
+                "issues": "https://github.com/kananlanginhooper/Caedo/issues"
+            },
+            "time": "2016-06-27 17:35:34"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
