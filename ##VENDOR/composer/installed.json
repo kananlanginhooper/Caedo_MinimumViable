@@ -1,23 +1,23 @@
 [
     {
         "name": "caedo/framework",
-        "version": "1.0.2",
-        "version_normalized": "1.0.2.0",
+        "version": "1.0.4",
+        "version_normalized": "1.0.4.0",
         "source": {
             "type": "git",
             "url": "https://github.com/kananlanginhooper/Caedo.git",
-            "reference": "02175637bebf72e02939c05179bcf630fe846d26"
+            "reference": "c5727c551e3addcc43d6bf02a54aa89cecd8824a"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/02175637bebf72e02939c05179bcf630fe846d26",
-            "reference": "02175637bebf72e02939c05179bcf630fe846d26",
+            "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/c5727c551e3addcc43d6bf02a54aa89cecd8824a",
+            "reference": "c5727c551e3addcc43d6bf02a54aa89cecd8824a",
             "shasum": ""
         },
         "require": {
             "php": ">=5.5.0"
         },
-        "time": "2016-06-27 17:35:34",
+        "time": "2016-06-30 14:14:50",
         "type": "library",
         "installation-source": "dist",
         "license": [
@@ -40,7 +40,7 @@
             "PHP Framework"
         ],
         "support": {
-            "source": "https://github.com/kananlanginhooper/Caedo/tree/1.0.2",
+            "source": "https://github.com/kananlanginhooper/Caedo/tree/1.0.4",
             "issues": "https://github.com/kananlanginhooper/Caedo/issues"
         }
     }
