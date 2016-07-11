@@ -44,9 +44,5 @@ require_once $RootFolder . '__CAEDO_CONFIG/config.DB.inc';
 // This file is used to setup your session configuration
 // require_once $RootFolder . '__CAEDO_CONFIG/config.Session.inc';
 
-// this file is where you can put local functions. If you want to use a different file, or put this file somewhere else, or delete it all together, go for it.
-include_once $RootFolder . '__CAEDO_CONFIG/LocalFunctions.inc';
-
-// When we get around to adding modules, this is where the code to load them should go
 
 
