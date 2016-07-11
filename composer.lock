@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "caedo/framework",
-            "version": "1.0.4",
+            "version": "1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kananlanginhooper/Caedo.git",
-                "reference": "c5727c551e3addcc43d6bf02a54aa89cecd8824a"
+                "reference": "4f7dce1023b198b06260a4c5922141b6b4a36d70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/c5727c551e3addcc43d6bf02a54aa89cecd8824a",
-                "reference": "c5727c551e3addcc43d6bf02a54aa89cecd8824a",
+                "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/4f7dce1023b198b06260a4c5922141b6b4a36d70",
+                "reference": "4f7dce1023b198b06260a4c5922141b6b4a36d70",
                 "shasum": ""
             },
             "require": {
@@ -44,10 +44,10 @@
                 "PHP Framework"
             ],
             "support": {
-                "source": "https://github.com/kananlanginhooper/Caedo/tree/1.0.4",
+                "source": "https://github.com/kananlanginhooper/Caedo/tree/1.0.7",
                 "issues": "https://github.com/kananlanginhooper/Caedo/issues"
             },
-            "time": "2016-06-30 14:14:50"
+            "time": "2016-07-11 16:48:02"
         }
     ],
     "packages-dev": [],
